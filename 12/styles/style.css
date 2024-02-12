@@ -1,0 +1,24 @@
+.parent-box{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    height: 1000px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#merhab{
+
+width: 100px;
+height: 100px;
+
+}
